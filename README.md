@@ -1,5 +1,5 @@
 # relay-note36
-<img width="421" alt="C16FACF4-CA1F-40A6-B495-6201FB0B027C" src="https://gist.github.com/user-attachments/assets/89d3aa78-cb98-4b6f-bb66-813048d14da8">
+<img width="421" alt="C16FACF4-CA1F-40A6-B495-6201FB0B027C" src="https://github.com/user-attachments/assets/915a489f-985b-44a1-a666-acdb465c75b4">
 
 ## 📘 책 해석
 ### 1. 소프트웨어 장인
