@@ -87,3 +87,6 @@ Q. 컨디션어떠신가요?
 
 <img src="https://raw.githubusercontent.com/kxxhyorim/markdownImageUploader/image/images/image-20240719165415173.png" width="400" />
 
+
+- **[week3]** 자의로 선택
+
